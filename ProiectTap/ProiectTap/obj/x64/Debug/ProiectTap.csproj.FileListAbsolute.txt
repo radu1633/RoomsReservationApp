@@ -1,0 +1,13 @@
+C:\Users\Radu\source\repos\ProiectTap\ProiectTap\obj\x64\Debug\ProiectTap.csproj.AssemblyReference.cache
+C:\Users\Radu\source\repos\ProiectTap\ProiectTap\obj\x64\Debug\ProiectTap.Properties.Resources.resources
+C:\Users\Radu\source\repos\ProiectTap\ProiectTap\obj\x64\Debug\ProiectTap.csproj.GenerateResource.cache
+C:\Users\Radu\source\repos\ProiectTap\ProiectTap\obj\x64\Debug\ProiectTap.csproj.CoreCompileInputs.cache
+C:\Users\Radu\source\repos\ProiectTap\ProiectTap\bin\x64\Debug\ProiectTap.exe.config
+C:\Users\Radu\source\repos\ProiectTap\ProiectTap\bin\x64\Debug\ProiectTap.exe
+C:\Users\Radu\source\repos\ProiectTap\ProiectTap\bin\x64\Debug\ProiectTap.pdb
+C:\Users\Radu\source\repos\ProiectTap\ProiectTap\obj\x64\Debug\ProiectTap.exe
+C:\Users\Radu\source\repos\ProiectTap\ProiectTap\obj\x64\Debug\ProiectTap.pdb
+C:\Users\Radu\source\repos\ProiectTap\ProiectTap\obj\x64\Debug\ProiectTap.CamereForm.resources
+C:\Users\Radu\source\repos\ProiectTap\ProiectTap\obj\x64\Debug\ProiectTap.ClientiForm.resources
+C:\Users\Radu\source\repos\ProiectTap\ProiectTap\obj\x64\Debug\ProiectTap.MainForm.resources
+C:\Users\Radu\source\repos\ProiectTap\ProiectTap\obj\x64\Debug\ProiectTap.RezervariForm.resources

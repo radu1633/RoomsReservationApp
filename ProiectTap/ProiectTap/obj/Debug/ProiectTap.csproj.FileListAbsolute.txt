@@ -1,0 +1,10 @@
+C:\Users\Radu\source\repos\ProiectTap\ProiectTap\bin\Debug\ProiectTap.exe.config
+C:\Users\Radu\source\repos\ProiectTap\ProiectTap\bin\Debug\ProiectTap.exe
+C:\Users\Radu\source\repos\ProiectTap\ProiectTap\bin\Debug\ProiectTap.pdb
+C:\Users\Radu\source\repos\ProiectTap\ProiectTap\obj\Debug\ProiectTap.csproj.AssemblyReference.cache
+C:\Users\Radu\source\repos\ProiectTap\ProiectTap\obj\Debug\ProiectTap.Form1.resources
+C:\Users\Radu\source\repos\ProiectTap\ProiectTap\obj\Debug\ProiectTap.Properties.Resources.resources
+C:\Users\Radu\source\repos\ProiectTap\ProiectTap\obj\Debug\ProiectTap.csproj.GenerateResource.cache
+C:\Users\Radu\source\repos\ProiectTap\ProiectTap\obj\Debug\ProiectTap.csproj.CoreCompileInputs.cache
+C:\Users\Radu\source\repos\ProiectTap\ProiectTap\obj\Debug\ProiectTap.exe
+C:\Users\Radu\source\repos\ProiectTap\ProiectTap\obj\Debug\ProiectTap.pdb
